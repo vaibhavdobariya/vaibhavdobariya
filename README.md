@@ -2,6 +2,8 @@
 
 🎓 B.Tech Student | 💻 Aspiring Full-Stack .NET Developer | 🛠️ Passionate about Building Scalable Web Applications
 
+![Vaibhav's 3D Contributions](https://github.com/vaibhavdobariya/vaibhavdobariya/blob/main/snack.svg)
+
 ---
 
 ## 🧠 About Me
@@ -22,6 +24,14 @@ A digital solution for managing dairy farm operations. It helps streamline recor
 
 ---
 
+## 🚀 My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,csharp,sql,html,css,bootstrap,js,python,angular,github" />
+</p>
+
+---
+
 ## 🛠 Skills
 
 **Languages:** C, C#, SQL, Python, JavaScript  
@@ -39,6 +49,22 @@ A digital solution for managing dairy farm operations. It helps streamline recor
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavdobariya&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavdobariya&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 - 📧 Email: [vaibhavdobariya98@gmail.com](mailto:vaibhavdobariya98@gmail.com)  
@@ -48,4 +74,3 @@ A digital solution for managing dairy farm operations. It helps streamline recor
 ---
 
 ⭐️ *“Strive for progress, not perfection.”*
-
