@@ -35,7 +35,7 @@ I love crafting web solutions using the **.NET ecosystem**, and I have strong ha
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,html,css,bootstrap,js,python,angular,github,cs" />
+  <img src="https://skillicons.dev/icons?i=dotnet,html,css,bootstrap,js,ts,python,angular,github,cs" />
 
 </p>
 
