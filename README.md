@@ -2,7 +2,6 @@
 
 🎓 B.Tech Student | 💻 Aspiring Full-Stack .NET Developer | 🛠️ Passionate about Building Scalable Web Applications
 
-![Vaibhav's 3D Contributions](https://github.com/vaibhavdobariya/vaibhavdobariya/blob/main/snack.svg)
 
 ---
 
@@ -27,7 +26,7 @@ A digital solution for managing dairy farm operations. It helps streamline recor
 ## 🚀 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,sql,html,css,bootstrap,js,python,angular,github" />
+  <img src="https://skillicons.dev/icons?i=dotnet,html,css,bootstrap,js,python,angular,github,csharp,sql" />
 </p>
 
 ---
