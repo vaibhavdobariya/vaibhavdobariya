@@ -36,6 +36,7 @@ I love crafting web solutions using the **.NET ecosystem**, and I have strong ha
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,html,css,bootstrap,js,ts,python,angular,github,cs" />
+  <img src="https://skills.syvixor.com/api/icons?i=sqlserver" />
 
 </p>
 
